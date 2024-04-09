@@ -1,1 +1,1 @@
-<h1> Guerriero Simone </h1>
+<h1 align="center"> Guerriero Simone </h1>
